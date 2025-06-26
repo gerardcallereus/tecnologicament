@@ -1,12 +1,13 @@
 ---
-title: Inici
 layout: default
+title: Inici
 ---
 
-[Inici](/tecnologicament/) | [Projectes](/tecnologicament/projectes/) | [Recursos](/tecnologicament/recursos/) | [Sobre mi](/tecnologicament/sobre/)
+# Benvinguts a Tecnològicament
 
----
+## Navegació
 
-# Benvinguts
-
-Aquesta és la pàgina principal del projecte **Tecnològicament**.
+- [Inici](/tecnologicament/)
+- [Projectes](/tecnologicament/projectes/)
+- [Recursos](/tecnologicament/recursos/)
+- [Sobre mi](/tecnologicament/sobre/)
