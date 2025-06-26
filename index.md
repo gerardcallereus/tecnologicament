@@ -1,8 +1,12 @@
 ---
-layout: default
 title: Inici
+layout: default
 ---
 
 # Benvinguts a Tecnològicament
 
-Aquesta és una pàgina web senzilla creada amb Jekyll i GitHub Pages.
+Aquesta és una pàgina responsive creada amb el tema **Cayman**.
+
+- ✅ S’adapta a mòbil automàticament
+- ✅ No cal tocar codi CSS
+- ✅ Ideal per projectes senzills
