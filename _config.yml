@@ -1,10 +1,6 @@
 title: Tecnològicament
-description: Pàgina web senzilla amb Jekyll estàndard
+description: Pàgina responsive amb Jekyll i tema Cayman
 baseurl: "/tecnologicament"
 url: "https://gerardcallereus.github.io"
 
-# Permalinks per fer URL amigables
-permalink: pretty
-
-# Llenguatge de markdown
-markdown: kramdown
+theme: jekyll-theme-cayman
