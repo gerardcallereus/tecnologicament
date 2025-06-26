@@ -1,13 +1,8 @@
 ---
-layout: default
 title: Inici
+nav_order: 1
 ---
 
-# Benvinguts a Tecnològicament
+# Benvinguts
 
-## Navegació
-
-- [Inici](/tecnologicament/)
-- [Projectes](/tecnologicament/projectes/)
-- [Recursos](/tecnologicament/recursos/)
-- [Sobre mi](/tecnologicament/sobre/)
+Aquesta és la pàgina principal de **Tecnològicament**.
