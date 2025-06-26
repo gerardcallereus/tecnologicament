@@ -1,0 +1,10 @@
+title: Tecnològicament
+description: Pàgina web senzilla amb Jekyll estàndard
+baseurl: "/tecnologicament"
+url: "https://gerardcallereus.github.io"
+
+# Permalinks per fer URL amigables
+permalink: pretty
+
+# Llenguatge de markdown
+markdown: kramdown
