@@ -3,10 +3,10 @@ title: Inici
 layout: default
 ---
 
-# Benvinguts a Tecnològicament
+[Inici](/tecnologicament/) | [Projectes](/tecnologicament/projectes/) | [Recursos](/tecnologicament/recursos/) | [Sobre mi](/tecnologicament/sobre/)
 
-Aquesta és una pàgina responsive creada amb el tema **Cayman**.
+---
 
-- ✅ S’adapta a mòbil automàticament
-- ✅ No cal tocar codi CSS
-- ✅ Ideal per projectes senzills
+# Benvinguts
+
+Aquesta és la pàgina principal del projecte **Tecnològicament**.
