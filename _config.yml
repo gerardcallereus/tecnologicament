@@ -3,4 +3,4 @@ description: Pàgina responsive amb Jekyll i tema Cayman
 baseurl: "/tecnologicament"
 url: "https://gerardcallereus.github.io"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
