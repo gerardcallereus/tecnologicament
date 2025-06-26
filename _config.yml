@@ -1,6 +1,8 @@
 title: Tecnològicament
-description: Pàgina responsive amb Jekyll i tema Cayman
-baseurl: "/tecnologicament"
-url: "https://gerardcallereus.github.io"
+description: Recull de recursos i projectes
+theme: just-the-docs
 
-theme: jekyll-theme-slate
+url: "https://gerardcallereus.github.io"
+baseurl: "/tecnologicament"
+
+color_scheme: light
