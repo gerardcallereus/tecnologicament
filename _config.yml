@@ -1,8 +1,27 @@
 title: Tecnològicament
 description: Recull de recursos i projectes
-theme: just-the-docs
-
 url: "https://gerardcallereus.github.io"
 baseurl: "/tecnologicament"
 
+# Usa just-the-docs com a tema remot:
+remote_theme: just-the-docs/just-the-docs
+
+# Configuració específica de just-the-docs (opcional)
+# Pots ajustar colors, ordre del menú, etc.
 color_scheme: light
+logo: /assets/images/logo.png  # (opcional, si tens logo)
+show_sidebar: true
+sidebar:
+  nav:
+    - title: Inici
+      url: /
+    - title: Projectes
+      url: /projectes/
+    - title: Recursos
+      url: /recursos/
+    - title: Sobre mi
+      url: /sobre/
+
+# Opcions bàsiques de GitHub Pages
+markdown: kramdown
+theme: null  # No cal posar tema, perquè fem servir remote_theme
