@@ -1,7 +1,8 @@
 title: Tecnològicament
 description: Recull de recursos i projectes
-url: "https://gerardcallereus.github.io"
-baseurl: "/tecnologicament"
+url: "https://www.tecnologicament.cat"
+
+baseurl: ""
 
 # Usa just-the-docs com a tema remot:
 remote_theme: just-the-docs/just-the-docs
