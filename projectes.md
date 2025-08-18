@@ -27,7 +27,7 @@ Aquí trobareu els projectes desenvolupats pels alumnes.
     .data(dades)
     .enter()
     .append("rect")
-    .attr("x", (d, i) => i * (amplada / dades.length))
+    .attr("x", (d, i) => i * (amplada / dades.length) + marge / 2)
     .attr("y", d => alçada - d)
     .attr("width", amplada / dades.length - marge)
     .attr("height", d => d)
