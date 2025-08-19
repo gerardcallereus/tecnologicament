@@ -3,6 +3,10 @@ const context = canvas.getContext('2d');
 const blockSize = 20;
 context.scale(blockSize, blockSize);
 
+const nextCanvas = document.getElementById('next');
+const nextContext = nextCanvas.getContext('2d');
+nextContext.scale(blockSize, blockSize);
+
 const boardWidth = 10;
 const boardHeight = 20;
 const board = Array.from({ length: boardHeight }, () => Array(boardWidth).fill(0));
@@ -40,18 +44,34 @@ const pieces = {
     [7, 7, 0],
     [0, 7, 7],
   ],
+  U: [
+    [0, 8, 0],
+    [8, 8, 8],
+    [0, 8, 8],
+  ],
 };
 
 const colors = [
   null,
   '#ff0d72', '#0dc2ff', '#0dff72',
-  '#f538ff', '#ff8e0d', '#ffe138', '#3877ff',
+  '#f538ff', '#ff8e0d', '#ffe138', '#3877ff', '#ff00ff',
 ];
 
 const player = {
   pos: { x: 0, y: 0 },
   matrix: null,
+  type: null,
 };
+
+function randomPieceType() {
+  const types = Object.keys(pieces).filter(t => t !== 'U');
+  if (Math.random() < 0.1) {
+    return 'U';
+  }
+  return types[Math.floor(Math.random() * types.length)];
+}
+
+let nextType = randomPieceType();
 
 function rotate(matrix) {
   return matrix[0].map((_, i) => matrix.map(row => row[i]).reverse());
@@ -91,22 +111,23 @@ function clearLines() {
 }
 
 function playerReset() {
-  const types = Object.keys(pieces);
-  const type = types[Math.floor(Math.random() * types.length)];
-  player.matrix = pieces[type].map(row => row.slice());
+  player.type = nextType;
+  player.matrix = pieces[player.type].map(row => row.slice());
   player.pos.y = 0;
   player.pos.x = Math.floor(boardWidth / 2) - Math.floor(player.matrix[0].length / 2);
   if (collide(board, player)) {
     board.forEach(row => row.fill(0));
   }
+  nextType = randomPieceType();
+  drawNext();
 }
 
-function drawMatrix(matrix, offset) {
+function drawMatrix(matrix, offset, ctx = context) {
   matrix.forEach((row, y) => {
     row.forEach((value, x) => {
       if (value !== 0) {
-        context.fillStyle = colors[value];
-        context.fillRect(x + offset.x, y + offset.y, 1, 1);
+        ctx.fillStyle = colors[value];
+        ctx.fillRect(x + offset.x, y + offset.y, 1, 1);
       }
     });
   });
@@ -117,6 +138,28 @@ function draw() {
   context.fillRect(0, 0, canvas.width, canvas.height);
   drawMatrix(board, { x: 0, y: 0 });
   drawMatrix(player.matrix, player.pos);
+}
+
+function drawNext() {
+  nextContext.fillStyle = '#000';
+  nextContext.fillRect(0, 0, nextCanvas.width, nextCanvas.height);
+  drawMatrix(pieces[nextType], { x: 0, y: 0 }, nextContext);
+}
+
+function explode(board, player) {
+  const centerY = player.pos.y + Math.floor(player.matrix.length / 2);
+  const centerX = player.pos.x + Math.floor(player.matrix[0].length / 2);
+  const positions = [
+    [centerY - 1, centerX],
+    [centerY + 1, centerX],
+    [centerY, centerX - 1],
+    [centerY, centerX + 1],
+  ];
+  positions.forEach(([y, x]) => {
+    if (board[y] && board[y][x] !== undefined) {
+      board[y][x] = 0;
+    }
+  });
 }
 
 let dropCounter = 0;
@@ -132,6 +175,9 @@ function update(time = 0) {
     if (collide(board, player)) {
       player.pos.y--;
       merge(board, player);
+      if (player.type === 'U') {
+        explode(board, player);
+      }
       clearLines();
       playerReset();
     }
@@ -157,6 +203,9 @@ document.addEventListener('keydown', e => {
     if (collide(board, player)) {
       player.pos.y--;
       merge(board, player);
+      if (player.type === 'U') {
+        explode(board, player);
+      }
       clearLines();
       playerReset();
     }
