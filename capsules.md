@@ -11,19 +11,38 @@ Espai per compartir càpsules formatives.
 
 Per veure el potencial de D3.js, aquí tens alguns exemples simples:
 
-### Cercle simple
+### Exemple de la pàgina de projectes
 
-<div id="d3-circle"></div>
-
-### Diagrama de barres
-
-<div id="d3-bar"></div>
-
-### Gràfic de línia
-
-<div id="d3-line"></div>
+<div id="grafica-d3"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+  const dades = [30, 80, 45];
+
+  const amplada = 300;
+  const alçada = 100;
+  const marge = 5;
+
+  const svg = d3.select("#grafica-d3")
+    .append("svg")
+    .attr("width", amplada)
+    .attr("height", alçada);
+
+  svg.selectAll("rect")
+    .data(dades)
+    .enter()
+    .append("rect")
+    .attr("x", (d, i) => i * (amplada / dades.length) + marge / 2)
+    .attr("y", d => alçada - d)
+    .attr("width", amplada / dades.length - marge)
+    .attr("height", d => d)
+    .attr("fill", "steelblue");
+</script>
+
+### Cercle simple
+
+<div id="d3-circle">
+
 <script>
 // Cercle
 const svgCircle = d3.select("#d3-circle").append("svg")
@@ -31,7 +50,13 @@ const svgCircle = d3.select("#d3-circle").append("svg")
 svgCircle.append("circle")
   .attr("cx", 60).attr("cy", 60).attr("r", 50)
   .attr("fill", "steelblue");
+</script>
+</div>
 
+### Diagrama de barres
+
+<div id="d3-bar">
+<script>
 // Diagrama de barres
 const dataBar = [4, 8, 15, 16, 23, 42];
 const svgBar = d3.select("#d3-bar").append("svg")
@@ -44,6 +69,16 @@ svgBar.selectAll("rect")
     .attr("width", 40)
     .attr("height", d => d * 3)
     .attr("fill", "orange");
+</script>
+
+  
+</div>
+
+### Gràfic de línia
+
+<div id="d3-line">
+
+<script>
 
 // Gràfic de línia
 const dataLine = [
@@ -65,4 +100,5 @@ svgLine.append("path")
   .attr("stroke-width", 2)
   .attr("d", line);
 </script>
+</div>
 
