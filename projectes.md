@@ -1,6 +1,7 @@
 ---
 title: Projectes
 nav_order: 2
+has_children: true
 ---
 
 # Projectes
@@ -8,7 +9,13 @@ nav_order: 2
 ![Pixel transparent](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg==)
 
 Aquí trobareu els projectes desenvolupats pels alumnes.
-# Visualització amb D3.js
+
+## Projectes per curs
+- [1r d'ESO]({{ '/projectes/1r' | relative_url }})
+- [2n d'ESO]({{ '/projectes/2n' | relative_url }})
+- [3r d'ESO]({{ '/projectes/3r' | relative_url }})
+- [4t d'ESO]({{ '/projectes/4t' | relative_url }})
+## Visualització amb D3.js
 
 <div id="grafica-d3"></div>
 
