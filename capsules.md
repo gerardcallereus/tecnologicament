@@ -25,4 +25,3 @@ Per veure el potencial de D3.js, aquí tens alguns exemples simples:
 
 <script defer src="https://d3js.org/d3.v7.min.js"></script>
 <script defer src="{{ '/assets/js/capsules-d3.js' | relative_url }}"></script>
-
