@@ -1,6 +1,7 @@
 ---
 title: Càpsules
 nav_order: 3
+has_children: true
 ---
 
 # Càpsules
@@ -8,6 +9,12 @@ nav_order: 3
 ![Imatge càpsules](https://placehold.co/600x200?text=C%C3%A0psules)
 
 Espai per compartir càpsules formatives.
+
+## Càpsules per curs
+- [1r d'ESO]({{ '/capsules/1r' | relative_url }})
+- [2n d'ESO]({{ '/capsules/2n' | relative_url }})
+- [3r d'ESO]({{ '/capsules/3r' | relative_url }})
+- [4t d'ESO]({{ '/capsules/4t' | relative_url }})
 
 ## D3.js en acció
 
