@@ -1,79 +1,100 @@
 const canvas = document.getElementById('lemmings');
-const ctx = canvas.getContext('2d');
+const { Engine, Render, World, Bodies, Body, Events } = Matter;
+
+const engine = Engine.create();
+const world = engine.world;
+
+const render = Render.create({
+  canvas: canvas,
+  engine: engine,
+  options: {
+    width: 400,
+    height: 200,
+    wireframes: false,
+    background: 'lightblue'
+  }
+});
+
+Render.run(render);
+Engine.run(engine);
 
 const groundY = 180;
 const gap = { start: 150, end: 230 };
-let blockPlaced = false;
+let block = null;
 
-const lemming = {
-  x: 20,
-  y: groundY - 10,
-  vx: 1,
-  vy: 0,
-  size: 10,
-  alive: true,
-  reached: false,
-};
-
-function draw() {
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-  ctx.fillStyle = 'lightblue';
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-  ctx.fillStyle = 'brown';
-  ctx.fillRect(0, groundY, gap.start, canvas.height - groundY);
-  ctx.fillRect(gap.end, groundY, canvas.width - gap.end, canvas.height - groundY);
-  if (blockPlaced) {
-    ctx.fillRect(gap.start, groundY - 10, gap.end - gap.start, 10);
+const ground1 = Bodies.rectangle(gap.start / 2, groundY + 10, gap.start, 20, {
+  isStatic: true,
+  render: { fillStyle: 'brown' }
+});
+const ground2 = Bodies.rectangle(
+  gap.end + (canvas.width - gap.end) / 2,
+  groundY + 10,
+  canvas.width - gap.end,
+  20,
+  {
+    isStatic: true,
+    render: { fillStyle: 'brown' }
   }
+);
+World.add(world, [ground1, ground2]);
 
-  ctx.fillStyle = 'green';
-  ctx.fillRect(lemming.x, lemming.y, lemming.size, lemming.size);
+const lemming = Bodies.rectangle(20, groundY - 10, 10, 10, {
+  render: { fillStyle: 'green' }
+});
+World.add(world, lemming);
 
-  ctx.fillStyle = 'yellow';
-  ctx.fillRect(canvas.width - 20, groundY - 20, 20, 20);
+Body.setVelocity(lemming, { x: 1, y: 0 });
 
-  ctx.fillStyle = 'black';
-  if (!lemming.alive) {
-    ctx.fillText('Game Over', 150, 50);
-  } else if (lemming.reached) {
-    ctx.fillText('You Win!', 150, 50);
+const exit = Bodies.rectangle(canvas.width - 10, groundY - 10, 20, 20, {
+  isStatic: true,
+  isSensor: true,
+  render: { fillStyle: 'yellow' }
+});
+World.add(world, exit);
+
+const gameState = { alive: true, reached: false };
+
+Events.on(engine, 'beforeUpdate', () => {
+  if (gameState.alive && !gameState.reached) {
+    Body.setVelocity(lemming, { x: 1, y: lemming.velocity.y });
   }
-}
-
-function update() {
-  if (!lemming.alive || lemming.reached) {
-    draw();
-    return;
-  }
-
-  lemming.x += lemming.vx;
-  lemming.y += lemming.vy;
-  lemming.vy += 0.2;
-
-  const onGround = lemming.y + lemming.size >= groundY;
-  const overGap = lemming.x + lemming.size / 2 > gap.start &&
-                  lemming.x + lemming.size / 2 < gap.end;
-
-  if (onGround && (!overGap || blockPlaced)) {
-    lemming.y = groundY - lemming.size;
-    lemming.vy = 0;
-  }
-
-  if (lemming.x + lemming.size > canvas.width - 20 && onGround) {
-    lemming.reached = true;
-  }
-
-  if (lemming.y > canvas.height) {
-    lemming.alive = false;
-  }
-
-  draw();
-  requestAnimationFrame(update);
-}
-
-canvas.addEventListener('click', () => {
-  blockPlaced = true;
 });
 
-update();
+canvas.addEventListener('click', () => {
+  if (!block) {
+    block = Bodies.rectangle((gap.start + gap.end) / 2, groundY, gap.end - gap.start, 10, {
+      isStatic: true,
+      render: { fillStyle: 'brown' }
+    });
+    World.add(world, block);
+  }
+});
+
+Events.on(engine, 'afterUpdate', () => {
+  if (lemming.position.y > canvas.height) {
+    gameState.alive = false;
+  }
+});
+
+Events.on(engine, 'collisionStart', (event) => {
+  event.pairs.forEach((pair) => {
+    const { bodyA, bodyB } = pair;
+    if (
+      (bodyA === lemming && bodyB === exit) ||
+      (bodyB === lemming && bodyA === exit)
+    ) {
+      gameState.reached = true;
+    }
+  });
+});
+
+Events.on(render, 'afterRender', () => {
+  const ctx = render.context;
+  ctx.fillStyle = 'black';
+  if (!gameState.alive) {
+    ctx.fillText('Game Over', 150, 50);
+  } else if (gameState.reached) {
+    ctx.fillText('You Win!', 150, 50);
+  }
+});
+
