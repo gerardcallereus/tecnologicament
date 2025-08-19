@@ -3,7 +3,7 @@ title: Joc de Tetris
 nav_order: 6
 ---
 
-# Joc de Tetris
+# Joc de Tetris Unicorn
 
 Utilitza les fletxes del teclat per moure les peces i forma línies completes.
 
