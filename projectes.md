@@ -5,6 +5,8 @@ nav_order: 2
 
 # Projectes
 
+![Pixel transparent](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg==)
+
 Aquí trobareu els projectes desenvolupats pels alumnes.
 # Visualització amb D3.js
 
@@ -33,3 +35,4 @@ Aquí trobareu els projectes desenvolupats pels alumnes.
     .attr("height", d => d)
     .attr("fill", "steelblue");
 </script>
+
