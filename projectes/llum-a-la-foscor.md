@@ -67,10 +67,6 @@ L'electricitat és el moviment de càrregues elèctriques a través d'un materia
 6. **Corregeix frases** sobre corrent altern i continu.
 7. **Tesla vs Edison**: investiga moments clau de la guerra dels corrents.
 
-### Web app: Trivia Challenge
-
-<iframe src="https://gemini-trivia-challenge-56641706726.us-west1.run.app" width="100%" height="500" loading="lazy"></iframe>
-
 ## Bloc 2: Magnituds elèctriques
 
 ### Teoria
