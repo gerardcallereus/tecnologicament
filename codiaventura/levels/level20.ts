@@ -1,0 +1,40 @@
+import { Level, Direction, CommandType, CellType } from '../types';
+
+export const level20: Level = {
+  id: 20,
+  title: "Laberint de Claus",
+  description: "Un laberint complex ple de portes i colors. Hauràs de fer servir tota la lògica apresa: Claus, Portes, Colors i Bucles Mentres. Observa bé el patró!",
+  concept: 'custom',
+  gridSize: 9,
+  gridHeight: 9,
+  layout: [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 0, 0, 0, 6, 0, 0, 13, 1],
+    [1, 0, 11, 11, 0, 11, 11, 0, 1],
+    [1, 9, 0, 0, 0, 0, 0, 9, 1],
+    [1, 11, 11, 11, 8, 11, 11, 11, 1],
+    [1, 6, 0, 0, 0, 0, 0, 6, 1],
+    [1, 0, 0, 0, 6, 0, 0, 6, 1],
+    [1, 2, 0, 0, 9, 0, 0, 6, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+  ],
+  startPos: { x: 1, y: 1 },
+  startDir: Direction.SOUTH,
+  maxCommands: 20,
+  availableCommands: [
+    CommandType.FORWARD, 
+    CommandType.TURN_LEFT, 
+    CommandType.TURN_RIGHT, 
+    CommandType.TURN_AROUND,
+    CommandType.WHILE_START, 
+    CommandType.WHILE_END, 
+    CommandType.IF_DOOR, 
+    CommandType.IF_TILE_KEY, 
+    CommandType.PICKUP, 
+    CommandType.IF_RED, 
+    CommandType.IF_GREEN, 
+    CommandType.UNLOCK_DOOR, 
+    CommandType.END_IF
+  ],
+  initialEnergy: 50,
+};
