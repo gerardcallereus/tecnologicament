@@ -11,13 +11,16 @@ remote_theme: just-the-docs/just-the-docs
 # Pots ajustar colors, ordre del menú, etc.
 color_scheme: light
 
-navigation:
+# Permalinks bonitos para URLs con /
+permalink: pretty
+
+nav:
   - title: Inici
     url: /
   - title: Artífex
-    items:
+    children:
       - title: Artífex
-        url: /artifex/artifex/
+        url: /artifex/
       - title: Com podem crear la nostra marca?
         url: /artifex/com-podem-crear-la-nostra-marca/
       - title: Cooperativa Artífex
@@ -25,7 +28,7 @@ navigation:
       - title: "Fase 1: La guspira"
         url: /artifex/fase-1-la-guspira/
       - title: "Fase 2: Identitat"
-        items:
+        children:
           - title: Identitat
             url: /artifex/fase-2-identitat/
           - title: El Naming (El Nom)
