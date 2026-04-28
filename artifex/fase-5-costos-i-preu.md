@@ -3,11 +3,23 @@ title: Artífex - FASE 5: Costos i preu
 ---
 
 # FASE 5: COSTOS I PREU
-Benvinguts al departament financer. Avui farem números, però abans de calcular el preu de l'arracada, hem de ser conscients d'una cosa. Per fabricar les vostres joies esteu fent servir màquines que valen milers d'euros. En una empresa real, hauríeu de pagar-les. Aquí, la "Cooperativa Artífex" (el centre) us les deixa gratis. Anem a veure quant us esteu estalviant.
-Dividirem l'estudi econòmic en 3 taules:
-- INFRAESTRUCTURA I MAQUINÀRIA (Aportat pel Centre): Són les eines cares que no es gasten amb l'ús i que l'escola posa a la vostra disposició.
-- LA INVERSIÓ INICIAL (Costos Fixos): Són les coses hem comprat per aquest projecte, però que podreu fer servir moltes vegades.
-- EL COST PER ARRACADA (Costos Variables): Aquí calculem els materials que desapareixen o es gasten cada vegada que fabriquem un parell d'arracades.
+
+> [!INFO] El preu és part del disseny
+> No només compta el material. Compten les màquines, el temps, el packaging i la percepció del client.
+
+Benvinguts al departament financer. Avui farem números, però abans de calcular el preu de l'arracada, hem de ser conscients d'una cosa.
+
+Per fabricar les vostres joies esteu fent servir màquines que valen milers d'euros. En una empresa real, hauríeu de pagar-les. Aquí, la "Cooperativa Artífex" (el centre) us les deixa gratis.
+
+## Components del cost
+| Categoria | Què inclou |
+| --- | --- |
+| Infraestructura i Maquinària | Eines de l'aula i equipament que no es consumeix. |
+| Inversió inicial | Materials i recursos que es poden reutilitzar. |
+| Cost per arracada | Materials i consumibles que es gasten per peça. |
+
+Anem a veure quant us esteu estalviant.
+
 Observa el següent simulador del Departament Financer Artífex i, després, respon a les preguntes al diari d'aprenentatge:
 ## Diari d'aprenentatge: L'estudi econòmic
 Crea una nova pàgina anomenada "Estudi Econòmic: Comprensió del Gràfic" i respon a aquests apartats (Fes servir imatges per millorar la teva explicació):

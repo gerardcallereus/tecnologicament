@@ -3,8 +3,14 @@ title: Artífex - EL LOGOTIP (La Cara)
 ---
 
 # EL LOGOTIP (La Cara)
+
+> [!INFO] El teu símbol visual
+> El logotip no ha de descriure el que fas; ha de fer-te recognoscible i memorable.
+
 El Logotip és la cara visible de la marca. No cal que expliqui què fa l'empresa, però sí que l'ha d'identificar de manera inequívoca. Hi ha tres grans tipus:
+
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUCr6QaxhSVcK-tnhkEyZFEcD28wmxbLh71aef6r3uax8PrpLNoVi0RUHnuSkDI9E8Y6tDL2gkCLjSPzSE9tmeocUNC3blbqtq-_ovb1rgCY4a-wkXoEI60h_vVkHD5hmUru9D2R6YeDnhI8_dKx9tPOSgwjlvoN-Vh0sLNPxpa9qfmeACsuh6Z_AB5jn3sDlRibYlEKloxWVIHAiM00zmITMKh-9gQK4oHI=w1280)
+
 ## Logotip (Text)
 Només lletres (ex: Zara o Google). Ideal per a noms curts i potents.
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUD8np3iHopsbPWvkV0jzWE0PArZEtxyzI5C8UsZepLKVV9B1b-AjH2idTDvvYMotKPcIWszAdh0007hKEaNzGc_HhINSET6g0Ud-RygijyILl7eoEPBzgXko6h2ns_QgGPNvyAzTg4CdrhZkL8goYyAxQJcGt-N_hUs3-UNTys5HVjnddmI3G9p1WyRxzu3VnTKxyzDA2obc7xMsbgqZP5-CuNTm3rSlFg0Ix4=w1280)

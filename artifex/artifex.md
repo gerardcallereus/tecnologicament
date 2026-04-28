@@ -3,18 +3,26 @@ title: Artífex
 ---
 
 # ARTÍFEX
+
+> [!TIP] Objectiu del projecte
+> Aquesta pàgina és la porta d'entrada a Artífex: l'espai on connectarem la idea creativa amb la producció i la venda. Llegeix atentament les preguntes i apunta les teves respostes al teu diari.
+
 Què passa quan una idea deixa de ser només un pensament?
 Esteu a punt de veure una ràfega de fragments.
 Fixeu-vos en la transformació. Com una idea invisible pren forma.
 Ara, observeu... i mentre ho feu, pregunteu-vos:
-Què creieu que aprendrem quan siguem nosaltres els 'Artífexs'?"
-![](https://www.google.com/images/icons/product/drive-32.png)
-IntroArtifex.mp4
-# Si haguessis d'explicar qui ets i què t'apassiona sense dir ni una paraula, només amb un petit objecte que portessis posat, quin seria?
-# Per què paguem 200 € per unes sabatilles que potser han costat 5 € de fabricar? Què estem comprant realment: el producte, o la marca?
-# Imagineu que heu dissenyat una peça de joieria perfecta. Genial. Ara, com en fabriqueu 500 d'idèntiques per vendre-les en una setmana?
-# Què és més difícil: tenir una idea brillant, fabricar-la perfectament, o convèncer algú que pagui 15 € per ella?
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUAp5NrgbuhANXlT8Ki1m5cBnLhzR3ZU79wQkP5Gi-sJsVF615uwgl93IS16lGMs_2JvuA4zp7l7gt8QErZt8EA02fq6stI0THtQosVnUoDitegdXxnPhTom1M105119oCohjhUSNfHrlpb4HDc2JqKfwQhSYettKxXULZupb9ht1hkUwzCsNDq6=w1280)
+Què creieu que aprendrem quan siguem nosaltres els 'Artífexs'?
+
+> [!NOTE] Vídeo d'introducció
+> `IntroArtifex.mp4` és una guia en vídeo per veure el procés d'ideació i producció.
+
+## Preguntes clau
+- Si haguessis d'explicar qui ets i què t'apassiona sense dir ni una paraula, només amb un petit objecte que portessis posat, quin seria?
+- Per què paguem 200 € per unes sabatilles que potser han costat 5 € de fabricar? Què estem comprant realment: el producte, o la marca?
+- Imagineu que heu dissenyat una peça de joieria perfecta. Genial. Ara, com en fabriqueu 500 d'idèntiques per vendre-les en una setmana?
+- Què és més difícil: tenir una idea brillant, fabricar-la perfectament, o convèncer algú que pagui 15 € per ella?
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUAp5NrgbuhANXlT8Ki1m5cBnLhzR3ZU79wQkP5Gi-sJsVF615uwgl93IS16lGMs_2JvuA4zp7l7gt8QErZt8EA02fq6stI0THtQosVnUoDitegdXxnPhTom1M105119oCohjhUSNfHrlpb4HDq2JqKfwQhSYettKxXULZupb9ht1hkUwzCsNDq6=w1280)
 Anna Puig treballant al seu estudi de Tàrrega
 ## Per què Artífex?
 Artífex és una persona que exerceix alguna art manual, especialment la que fa treballs manuals que exigeixen una habilitat especial, com ara l'escultura, la pintura o la joieria.

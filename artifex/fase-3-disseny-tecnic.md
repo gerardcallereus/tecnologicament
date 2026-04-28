@@ -3,20 +3,35 @@ title: Artífex - FASE 3: Disseny Tècnic
 ---
 
 # FASE 3: DISSENY TÈCNIC
+
+> [!INFO] Disseny tècnic
+> En aquesta fase convertirem les idees en instruccions precises per màquines. El dibuix tècnic és la llengua universal del procés de fabricació.
+
 Benvinguts a la Fase 3: Disseny Tècnic. Fins ara heu treballat la part creativa i emocional (la identitat). Però una idea brillant no serveix de res si no es pot fabricar. Avui deixem el llapis i el paper i ens asseiem davant de l'ordinador per convertir-nos en tècnics.
+
 Alguna vegada heu muntat un moble d'IKEA o una joguina? Us heu fixat que les instruccions no tenen text? No importa si ets català, japonès o alemany: tothom entén el dibuix.
+
 ## El Dibuix com a Llenguatge
 En el món professional, el dibuix no serveix per fer "coses boniques", serveix per donar ordres precises a les màquines.
+
 Si envies un esbós fet a mà a una fàbrica de la Xina dient "vull una peça rodona", segurament t'arribarà malament. Però si envies un Arxiu CAD (Computer-Aided Design), la peça sortirà perfecta, amb una precisió de mil·límetres.
+
 El Dibuix Tècnic és l'idioma universal de la tecnologia. Es basa en:
-- Geometria: Línies, arcs i volums exactes.
-- Cotes: Les mesures numèriques reals (X, Y, Z).
-- Escales: La proporció real de l'objecte.
-# TinkerCAD
+- Geometria: línies, arcs i volums exactes.
+- Cotes: mesures numèriques reals (X, Y, Z).
+- Escales: la proporció real de l'objecte.
+
+## TinkerCAD
 Per passar de l'esbós artístic al model digital, farem servir TinkerCAD. Aquest programari de modelatge 3D ens permetrà crear els volums de la vostra arracada (per a la impressora 3D) i extreure'n els perfils per al logotip (per a la talladora làser).
-En el següent enllaç podreu entrar a la classe preparada per aquestes sessions dins del tinkerCAD:
+
+En el següent enllaç podreu entrar a la classe preparada per aquestes sessions dins del TinkerCAD:
 [TINKERCAD](https://www.tinkercad.com/joinclass/V4JGZXFWM)
+
+> [!TIP] Comença pel repte d'entrenament
+> Replica el logo de Munay abans de dissenyar el teu propi logotip. Això t'ajudarà a dominar les eines de TinkerCAD.
+
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUCvSNACypguoMb5YIZRR84g9ybNWoNmZog27ZnvdjvTTJDTG_8-Y43ybsFyDy-vknP36nZxPRlrehieqnku3kVULllTh88Knj0dGqyv5N4vBD7d_YYzyfsm8J-OWoJpOTNZlEpkvPUtNzuj0Vne6kysK03bY3VEbPCKo_qYabNT8Hq2DzWHlChTYycYBlBIRbczE81RExraz7FOm7stRTU35AagINKL1nf8=w1280)
+
 Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
 1. Entrenament: Logo MUNAY Abans de fer el vostre, heu de demostrar que domineu l'eina. Heu de replicar exactament el logotip de la marca "Munay" que vam veure a la fase d'identitat.
 A continuació teniu un vídeo per ajudar-vos per a poder seguir pas a pas com fer el logo de MUNAY.

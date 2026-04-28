@@ -3,11 +3,22 @@ title: Artífex - Cooperativa Artífex
 ---
 
 # Cooperativa Artífex
-## Cooperativa Artífex
-Comença el projecte i el primer que heu de saber és que deixarem de ser una classe normal per convertir-nos en una COOPERATIVA DE JOIERIA.. Què vol dir que som una Cooperativa? Vol dir que funcionarem com un equip professional. Tot i que cadascú de vosaltres serà el dissenyador/a de la seva pròpia marca personal (creareu les vostres pròpies joies úniques), compartirem els recursos, les màquines de l'aula, el coneixement i l'espai de venda.
-No sou competència, sou socis. Si al teu company li surt bé la barreja de resina, aprens d'ell. Si tu domines el disseny vectorial, l'ajudes.
+
+> [!INFO] Què significa ser una cooperativa?
+> A Artífex treballarem com un equip: cadascú té la seva marca personal, però compartim recursos, coneixement i espai de venda.
+
+Comença el projecte i el primer que heu de saber és que deixarem de ser una classe normal per convertir-nos en una COOPERATIVA DE JOIERIA. Què vol dir que som una Cooperativa? Vol dir que funcionarem com un equip professional.
+
+- Cadascú serà el creador de la seva pròpia marca.
+- Compartirem màquines i materials.
+- Intercanviarem idees i aprendrem junts.
+
+> [!TIP] Socis, no competència
+> Si al teu company li surt bé la barreja de resina, aprens d'ell. Si tu domines el disseny vectorial, ajudes als altres.
+
 ## El Debat dels Diners (Debat grup classe)
 Com a cooperativa, hem de prendre una decisió democràtica molt important abans de començar: Què farem amb els beneficis?
+
 Quan venguem les joies al final del projecte i recuperem els diners que han costat els materials... què farem amb els diners que sobrin (el benefici real)?
 - Ens els repartim entre nosaltres?
 - Ho farem servir per ajudar algun alumne a pagar el seu viatge final de curs?

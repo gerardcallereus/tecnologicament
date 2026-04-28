@@ -3,8 +3,16 @@ title: Artífex - Mucha Joya
 ---
 
 # MUCHA JOYA
-Avui hem rebut la visita de l'Isa, dissenyadora gràfica i creadora de la marca de joies "Mucha Joya". A través de la seva experiència, hem pogut veure tot el recorregut que fa un producte: des de la primera "guspira" i la identitat fins a l'embalatge final (packaging). Ens ha ensenyat que darrere d'unes arracades hi ha una gran feina de disseny, valors i comunicació per aconseguir emocionar el client.
+
+> [!INFO] Inspiració professional
+> La xerrada de l'Isa ens mostra com es construeix una marca des de la primera idea fins a l'embalatge final.
+
+Avui hem rebut la visita de l'Isa, dissenyadora gràfica i creadora de la marca de joies "Mucha Joya". A través de la seva experiència, hem pogut veure tot el recorregut que fa un producte: des de la primera "guspira" i la identitat fins a l'embalatge final (packaging).
+
+Ens ha ensenyat que darrere d'unes arracades hi ha una gran feina de disseny, valors i comunicació per aconseguir emocionar el client.
+
 PRESENTACIO_IDENTITAT.pdf
+
 ## Diari d'aprenentatge: MUCHA JOYA
 Ara és el moment de reflexionar sobre el que hem après i com ho pots aplicar al teu propi projecte. Obre el teu Diari d'Aprenentatge, crea una pàgina titulada "Mucha Joya" i respon amb detall a les següents preguntes:
 1. Què no sabies?

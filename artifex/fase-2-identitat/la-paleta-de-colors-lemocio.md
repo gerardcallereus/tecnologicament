@@ -3,9 +3,17 @@ title: Artífex - LA PALETA DE COLORS (L'Emoció)
 ---
 
 # LA PALETA DE COLORS (L'Emoció)
+
+> [!INFO] L'emoció del color
+> Els colors són una forma directa d'evocar sensacions. Tria'ls pensant en què vols que senti el teu client.
+
 Una paleta de colors és un conjunt tancat de colors que una marca tria per fer-los servir sempre: en el logotip, en les caixes de les joies, a la pàgina web i fins i tot en el mobiliari de la botiga.
+
 La clau: Una bona paleta no es tria a l'atzar, sinó que es busca que els colors "s'entenguin" entre ells per transmetre una emoció concreta.
-Els colors tenen un impacte psicològic i ajuden a transmetre el missatge de la marca. Abans de triar els teus colors, pensa: Com vull que se senti la persona que porti les meves joies? Observa la següent col·lecció de rellotges Swatch i fixa't en les emocions que transmeten:
+
+Els colors tenen un impacte psicològic i ajuden a transmetre el missatge de la marca. Abans de triar els teus colors, pensa: Com vull que se senti la persona que porti les meves joies?
+
+Observa la següent col·lecció de rellotges Swatch i fixa't en les emocions que transmeten:
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUBDJCkWdsSR3EGQ2aJ2QWvGzrhB9vS56kaoJggzaPN9u9lCwlAnR0WRdQlQh_NU_6mfT7Htu482F-F_mp4ZTeeVfH-GFrQQ82ua0LRZJ2WFXdluAz3rmfE_lpcZrbmiRU4lTvcBHtd0P2dmS_WrFBnfMBcKIbORmKcTzmhW0kSNvyBv1d3Z3hmG=w1280)
 Tons daurats i negres:
 Elegància i sofisticació.

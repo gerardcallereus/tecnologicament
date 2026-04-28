@@ -2,10 +2,15 @@
 title: Artífex - FASE 1: La guspira
 ---
 
-# FASE 1:
-# LA GUSPIRA
+# FASE 1: LA GUSPIRA
+
+> [!INFO] Fase d'inspiració
+> En aquesta fase busquem la teva guspira: aquella emoció, record o sensació que connecta el teu projecte amb la teva història personal.
+
 Tota gran empresa comença amb una idea invisible: Benvinguts a la Fase 1: La Guspira.
+
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUDSVkAjdH_63AyO-HpV8tlVycebVuSDSIb0I7TBw-QCUDxd72nLXWuB16CIauz-7t9YrwSAFGTnuAdVFJhmS8C44Ml3Qfrc3TmuGg7aYqKR0-XjdtGhupx59N9mc2N6qZATTOzCa9OC32lNYk0hCdRZiWKLtjJwbQZhdcm2QR9KfB-1CvG1XuBv6wUFanMv6ND4Z5AB8r74QlEF802G5Z6hMDG6ZKgPRwMJ=w1280)
+
 ## Trobar el meu "Motiu" (Individual)
 Les marques que realment ens emocionen no són les que tenen el logo més perfecte, sinó les que tenen ànima. I l'ànima no es pot copiar d'Internet; l'has de trobar dins teu.
 Per crear la teva col·lecció de joies, primer necessites una "Guspira": una emoció, un record o una sensació que sigui només teva. No busquem només fer objectes "bonics", busquem també crear objectes que signifiquin alguna cosa. Volem capturar un trosset de la teva història i convertir-lo en una joia perquè algú altre la pugui portar.

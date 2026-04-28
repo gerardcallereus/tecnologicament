@@ -2,15 +2,25 @@
 title: Artífex - FASE 2: Identitat
 ---
 
-# FASE 2:
-# IDENTITAT
+# FASE 2: IDENTITAT
+
+> [!INFO] Objectiu de la fase
+> En aquesta etapa definim l'ADN de la teva marca: nom, imatge, colors i tipografia. Això és el que farà que el teu projecte sigui reconeixible i consistent.
+
 Benvinguts a la primera gran etapa del projecte. Abans de posar-nos a fabricar res, hem de respondre a la pregunta més important de totes: Qui som?
-Un producte sense marca és només un objecte anònim. Però quan li afegim una identitat, es converteix en alguna cosa amb personalitat, amb valors i amb capacitat d'emocionar. Per què reconeixeu una llauna de Coca-Cola a 10 metres de distància? O per què sabeu que un anunci és d'Apple abans que surti el logo? Perquè tenen una identitat forta.
-En aquesta fase, construirem l'ADN de la vostra empresa treballant els 4 pilars fonamentals del disseny gràfic:
-- EL NAMING (El Nom): No val posar el primer nom que us passi pel cap. Buscarem un nom que soni bé, que sigui fàcil de recordar i, sobretot, que tingui un significat relacionat amb el vostre "motiu". El nom és la primera cosa que el client coneixerà de vosaltres.
-- EL LOGOTIP (La Cara): Dissenyarem el símbol gràfic que us representarà. Aprendrem a sintetitzar la vostra idea en una imatge simple, potent i reproduïble. Serà la "cara" de la vostra marca, allò que estamparíeu en una samarreta.
-- LA PALETA DE COLORS (L'Emoció): Sabíeu que els colors parlen? El blau transmet confiança; el vermell, passió; el negre, luxe. No triarem colors "perquè són bonics", sinó pel que volem fer sentir. Definirem una combinació de colors exacta per utilitzar-la sempre.
-- LA TIPOGRAFIA (La Veu): La lletra que trieu defineix el vostre to de veu. La vostra marca crida o xiuxiueja? És seriosa i elegant, o és divertida i moderna? Aprendrem a triar les fonts adequades per escriure els vostres missatges.
+
+Un producte sense marca és només un objecte anònim. Però quan li afegim una identitat, es converteix en alguna cosa amb personalitat, amb valors i amb capacitat d'emocionar.
+
+Per què reconeixeu una llauna de Coca-Cola a 10 metres de distància? O per què sabeu que un anunci és d'Apple abans que surti el logo? Perquè tenen una identitat forta.
+
+## Els 4 pilars de la identitat
+| Pilar | Què treballa |
+| --- | --- |
+| EL NAMING (El Nom) | Un nom fàcil, recordable i significatiu. |
+| EL LOGOTIP (La Cara) | La imatge visual que representarà la marca. |
+| LA PALETA DE COLORS (L'Emoció) | Els colors que transmeten l'atmosfera i valors. |
+| LA TIPOGRAFIA (La Veu) | La lletra que dona personalitat i to a la marca. |
+
 L'Objectiu: Al final d'aquesta fase, el vostre projecte deixarà de ser només una idea al vostre cap i passarà a ser una marca real, amb nom i cognoms, llesta per presentar-se al món.
 ## Entrena la teva mirada
 Tens l'ADN d'un dissenyador gràfic? Abans de començar a pensar la vostra identitat, hem de fer un pas enrere. El disseny no consisteix només a fer coses "boniques"; el disseny és comunicació. Si un logo no comunica el missatge correcte, no serveix per a res, per molt artístic que sigui.

@@ -3,8 +3,14 @@ title: Artífex - EL NAMING (El Nom)
 ---
 
 # EL NAMING (El Nom)
+
+> [!INFO] El nom és l'entrada
+> El nom és la primera promesa que fas al client. Ha de ser clar, memorable i coherent amb la teva identitat.
+
 El nom és la primera presa de contacte. Ha de ser fàcil de pronunciar, fàcil de recordar i coherent amb els valors del projecte. Les estratègies més habituals són:
+
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUBC9un5iDoSz-h6LtA71BCrM8PJar1gzZK5ZMUXBMIZ67hGuhVbEEwQdFjnl-uRx4mN5-9AXCl0J9smZonTC5l_1n_6415k0Y7_eZEe37UWLQICKtdGYFQjmjGyE7n57TFspwgAQSZOBaX5EfsqQvXlnxB6BRqAskrbckE46NpgdE_hgzTFivjI7sXcEcBtExl_Ave9marodN2l9MAtX5FZwGBj1nUe-7xbfQQ=w1280)
+
 ## 1. Nom del Fundador (Marca Personal)
 Exemple: Disney (The Walt Disney Company).
 Per què funciona? Tot i ser avui un imperi mediàtic gegant, el nom ens remet directament al seu creador, Walt Disney. Transmet valors d'imaginació, màgia i la visió personal d'un artista. El nom actua com a garantia de "qualitat familiar" i fantasia, mantenint viu l'esperit del fundador gairebé un segle després.

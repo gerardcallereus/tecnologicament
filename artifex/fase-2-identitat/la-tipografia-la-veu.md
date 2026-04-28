@@ -3,12 +3,18 @@ title: Artífex - LA TIPOGRAFIA (La Veu)
 ---
 
 # LA TIPOGRAFIA (La Veu)
+
+> [!INFO] La veu de la marca
+> La tipografia fa sentir la teva marca abans que el client llegeixi una paraula.
+
 Sabies que una tipografia pot fer que una joia sembli el doble de cara o que sembli una manualitat? Abans que el client llegeixi el nom de la vostra marca, el seu cervell ja ha decidit què sent gràcies a la forma de les lletres.
-Què farem?
+
+## Què farem?
 A continuació teniu una aplicació interactiva per treballar conceptes de tipografia i identitat on aprendreu a:
 - Distingir entre els principals tipus de fonts: Serifa, Pal Sec, Manuscrita i Decorativa.
 - Entrenar el vostre ull per tal d'analitzar les emocions que transmet cada font.
 - Descobrir quina és la tipografia perfecta per a la vostra marca basant-vos en els adjectius que la defineixen.
+
 Esteu preparats per trobar la veu del vostre projecte? Clica al botó per començar el laboratori!
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUCukuZiltNPpiIDH3-cRwZqzWz3uZ9AAK1ojXgH6NJdz4HF2SPD53g9heFBm2ThmskIQUg9FIRT90hKuZZoTl_mOIx8HX1Y-njCTd9tpnY7ZX5z2hUzkJ9GqJSx-8iCwfWeXJrwwOv0kSOSdlNtCQAnJWPUzgLbi26REPG7bnJCPolYnbiVoVV68cmdJMIe-iTeojbUKiEDg7Du0rhlEWsjU22iAsFs2VzB=w1280)
 ![](https://lh3.googleusercontent.com/sitesv/AA5AbUDy0eW2sEMIotbXDDRsnIQxjHFdXMiFsnK0z2FvpB5Tt0gAfKVYei-auLlmqXFBbh-2O73WA1zvIbhUVzeYkL-ZMvAOvN5IMrdjAUbZy1L3akMuw2k3o_NnIONxq2aGIM48W-eJwzneRVmFbZY0I1TeEueR_TMafybaM5fSKn4B_dMiT0y1jXjhDF7a9WLhkjGve39tYflanlS9-otpDLv_OvyvRz3dgN8mDQ0=w1280)
