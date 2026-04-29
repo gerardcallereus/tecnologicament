@@ -1,5 +1,7 @@
 ---
 title: Artífex - Com podem crear la nostra marca?
+parent: Artífex
+nav_order: 1
 ---
 
 # Com podem crear la nostra marca?

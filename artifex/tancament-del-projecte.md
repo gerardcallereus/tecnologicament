@@ -1,5 +1,7 @@
 ---
 title: Artífex - Tancament del projecte
+parent: Artífex
+nav_order: 11
 ---
 
 # Tancament del projecte

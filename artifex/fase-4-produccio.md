@@ -1,5 +1,7 @@
 ---
 title: "Artífex - FASE 4: Producció"
+parent: Artífex
+nav_order: 7
 ---
 
 # FASE 4: PRODUCCIÓ
