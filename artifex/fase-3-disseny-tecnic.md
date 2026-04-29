@@ -1,5 +1,5 @@
 ---
-title: Artífex - FASE 3: Disseny Tècnic
+title: "Artífex - FASE 3: Disseny Tècnic"
 ---
 
 # FASE 3: DISSENY TÈCNIC

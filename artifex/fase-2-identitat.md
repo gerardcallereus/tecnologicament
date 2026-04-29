@@ -1,5 +1,5 @@
 ---
-title: Artífex - FASE 2: Identitat
+title: "Artífex - FASE 2: Identitat"
 ---
 
 # FASE 2: IDENTITAT

@@ -4,11 +4,12 @@ url: "https://www.tecnologicament.cat"
 
 baseurl: ""
 
-# Usa Slate com a tema remot:
-remote_theme: pages-themes/slate@v0.2.0
+# Usa just-the-docs com a tema remot:
+remote_theme: just-the-docs/just-the-docs
 
-# Configuració de Slate
-theme: slate
+# Configuració específica de just-the-docs (opcional)
+# Pots ajustar colors, ordre del menú, etc.
+color_scheme: light
 
 # Permalinks bonitos para URLs con /
 permalink: pretty
