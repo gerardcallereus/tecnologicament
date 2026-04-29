@@ -1,5 +1,7 @@
 ---
 title: Artífex - Cooperativa Artífex
+parent: Artífex
+nav_order: 3
 ---
 
 # Cooperativa Artífex

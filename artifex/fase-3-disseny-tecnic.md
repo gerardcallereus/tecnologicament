@@ -1,5 +1,7 @@
 ---
 title: "Artífex - FASE 3: Disseny Tècnic"
+parent: Artífex
+nav_order: 6
 ---
 
 # FASE 3: DISSENY TÈCNIC

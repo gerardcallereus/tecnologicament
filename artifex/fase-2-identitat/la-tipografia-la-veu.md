@@ -1,5 +1,8 @@
 ---
 title: Artífex - LA TIPOGRAFIA (La Veu)
+parent: "Artífex - FASE 2: Identitat"
+grand_parent: Artífex
+nav_order: 4
 ---
 
 # LA TIPOGRAFIA (La Veu)

@@ -1,5 +1,7 @@
 ---
 title: "Artífex - FASE 1: La guspira"
+parent: Artífex
+nav_order: 2
 ---
 
 # FASE 1: LA GUSPIRA

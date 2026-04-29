@@ -1,7 +1,7 @@
 ---
 title: "Artífex - FASE 4: Producció"
 parent: Artífex
-nav_order: 7
+nav_order: 7 # Mantenim l'ordre existent
 ---
 
 # FASE 4: PRODUCCIÓ

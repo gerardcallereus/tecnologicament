@@ -1,5 +1,8 @@
 ---
 title: Artífex - Prova Final
+parent: "Artífex - FASE 2: Identitat"
+grand_parent: Artífex
+nav_order: 5
 ---
 
 # Prova Final

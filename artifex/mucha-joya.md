@@ -1,5 +1,7 @@
 ---
 title: Artífex - Mucha Joya
+parent: Artífex
+nav_order: 10
 ---
 
 # MUCHA JOYA
