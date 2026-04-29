@@ -1,5 +1,8 @@
 ---
 title: Artífex - EL NAMING (El Nom)
+parent: "Artífex - FASE 2: Identitat"
+grand_parent: Artífex
+nav_order: 1
 ---
 
 # EL NAMING (El Nom)

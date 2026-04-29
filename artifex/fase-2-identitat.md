@@ -1,5 +1,8 @@
 ---
 title: "Artífex - FASE 2: Identitat"
+parent: Artífex
+has_children: true
+nav_order: 5
 ---
 
 # FASE 2: IDENTITAT

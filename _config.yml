@@ -14,46 +14,6 @@ color_scheme: light
 # Permalinks bonitos para URLs con /
 permalink: pretty
 
-nav:
-  - title: Inici
-    url: /
-  - title: Artífex
-    children:
-      - title: Artífex
-        url: /artifex/
-      - title: Com podem crear la nostra marca?
-        url: /artifex/com-podem-crear-la-nostra-marca/
-      - title: Cooperativa Artífex
-        url: /artifex/cooperativa-artifex/
-      - title: "Fase 1: La guspira"
-        url: /artifex/fase-1-la-guspira/
-      - title: "Fase 2: Identitat"
-        children:
-          - title: Identitat
-            url: /artifex/fase-2-identitat/
-          - title: El Naming (El Nom)
-            url: /artifex/fase-2-identitat/el-naming-el-nom/
-          - title: El Logotip (La Cara)
-            url: /artifex/fase-2-identitat/el-logotip-la-cara/
-          - title: "La Paleta de Colors (L'Emoció)"
-            url: /artifex/fase-2-identitat/la-paleta-de-colors-lemocio/
-          - title: La Tipografia (La Veu)
-            url: /artifex/fase-2-identitat/la-tipografia-la-veu/
-          - title: Prova Final
-            url: /artifex/fase-2-identitat/prova-final/
-      - title: "Fase 3: Disseny Tècnic"
-        url: /artifex/fase-3-disseny-tecnic/
-      - title: "Fase 4: Producció"
-        url: /artifex/fase-4-produccio/
-      - title: "Fase 5: Costos i preu"
-        url: /artifex/fase-5-costos-i-preu/
-      - title: "Fase 6: Comercialització"
-        url: /artifex/fase-6-comercialitzacio/
-      - title: Mucha Joya
-        url: /artifex/mucha-joya/
-      - title: Tancament del projecte
-        url: /artifex/tancament-del-projecte/
-
 # Opcions bàsiques de GitHub Pages
 markdown: kramdown
 theme: null  # No cal posar tema, perquè fem servir remote_theme

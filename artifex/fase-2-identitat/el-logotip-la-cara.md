@@ -1,5 +1,8 @@
 ---
 title: Artífex - EL LOGOTIP (La Cara)
+parent: "Artífex - FASE 2: Identitat"
+grand_parent: Artífex
+nav_order: 2
 ---
 
 # EL LOGOTIP (La Cara)
