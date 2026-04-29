@@ -4,20 +4,11 @@ url: "https://www.tecnologicament.cat"
 
 baseurl: ""
 
-# Usa Feeling Responsive com a tema remot:
-remote_theme: Phlow/feeling-responsive
+# Usa Slate com a tema remot:
+remote_theme: pages-themes/slate@v0.2.0
 
-# Configuració específica de Feeling Responsive
-# Colores modernos i divertits
-colors:
-  primary: '#FF6B6B'        # Vermell vibrant
-  secondary: '#4ECDC4'      # Turquesa
-  accent: '#FFE66D'         # Groc lluminós
-  dark: '#2C3E50'           # Gris fosc
-  light: '#ECF0F1'          # Gris clar
-
-# Configuració general
-lang: ca
+# Configuració de Slate
+theme: slate
 
 # Permalinks bonitos para URLs con /
 permalink: pretty
