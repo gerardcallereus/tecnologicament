@@ -6,6 +6,7 @@ nav_order: 5
 ---
 
 # Prova Final
-Entra a [gosocrative.com](http://gosocrative.com/) i escriu com a nom d'aula:
-ietramuntana
-Indica el teu nom i respon a les 20 preguntes.
+
+Entra a l'enllaç següent per accedir a Socrative. Com a nom d'aula, introdueix **ietramuntana**. Indica el teu nom i respon a les 20 preguntes de la prova.
+
+Anar a Socrative{: .btn .btn-primary }

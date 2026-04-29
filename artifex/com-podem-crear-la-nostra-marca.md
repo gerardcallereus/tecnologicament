@@ -27,6 +27,15 @@ En la següent activitat trobareu les sis Fases de Creació d'una marca totalmen
 
 > [!TIP] Pensa com un estrateg
 > El teu objectiu és identificar l'ordre del procés: idea, disseny, producció, preu, packaging i venda.
+
+---
+
 ## Diari d'aprenentatge: Com podem crear la nostra marca?
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-1. Afegeix una nova pàgina "Com podem crear la nostra marca?" on expliquis: - Creies que l'ordre era aquest abans de començar o t'imaginaves una altra cosa? - Quina d'aquestes fases creus que serà la més divertida per a tu? Per què? - Quina fase et fa més respecte o creus que serà la més difícil? (Fer els càlculs del preu? Dibuixar a l'ordinador? Fabricar?) - A l'activitat hem vist com ho va fer Nike. Hi ha algun pas del seu procés que t'hagi sorprès? - Pots decorar aquesta pàgina fent un petit dibuix d'un camí o una escala amb els 6 passos.
+
+1. Afegeix una nova pàgina **"Com podem crear la nostra marca?"** on expliquis: 
+   - Creies que l'ordre era aquest abans de començar o t'imaginaves una altra cosa? 
+   - Quina d'aquestes fases creus que serà la més divertida per a tu? Per què? 
+   - Quina fase et fa més respecte o creus que serà la més difícil? *(Fer els càlculs del preu? Dibuixar a l'ordinador? Fabricar?)* 
+   - A l'activitat hem vist com ho va fer Nike. Hi ha algun pas del seu procés que t'hagi sorprès? 
+   - Pots decorar aquesta pàgina fent un petit dibuix d'un camí o una escala amb els 6 passos.

@@ -38,16 +38,25 @@ Per saber si tens un bon logotip, ha de complir aquests 5 requisits:
 ### Exemple de mal disseny
 ## La Prova de Foc: El Blanc i Negre
 Aquesta és la regla d'or:
-Si el teu logotip no funciona en blanc i negre pur, no funciona.
+**Si el teu logotip no funciona en blanc i negre pur, no funciona.**
+
 Per què? Les màquines de tall (plotter) i gravat làser no "veuen" colors ni degradats. Només entenen de línies i formes. Si el teu disseny depèn d'una ombra o d'un degradat per entendre's, la màquina no funcionarà.
+
 Abans de donar el disseny per bo, fes-te aquesta pregunta o, millor encara, fes la prova:
-"Podria retallar aquest logotip amb unes tisores en un tros de paper i que se seguís reconeixent?"
-- Si la resposta és SÍ: Felicitats, tens un logo tot terreny.
-- Si la resposta és NO (perquè tens degradats, lletres massa fines o formes obertes): Toca simplificar.
+> *"Podria retallar aquest logotip amb unes tisores en un tros de paper i que se seguís reconeixent?"*
+
+- **Si la resposta és SÍ:** Felicitats, tens un logo tot terreny.
+- **Si la resposta és NO** *(perquè tens degradats, lletres massa fines o formes obertes)*: Toca simplificar.
+
+---
+
 ## Diari d'aprenentatge: Logotip: Font d'inspiració
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-Afegeix una nova pàgina anomenada "Logotip: Font d'inspiració" on facis una recerca de formes, imatges, logotips... que poden ser de font d'inspiració per a la creació del teu logotip i justifiquis el motiu. A continuació pots veure un exemple de la meva marca, on pots veure que m'he inspirat en la geometria dels pobles andins.
+
+Afegeix una nova pàgina anomenada **"Logotip: Font d'inspiració"** on facis una recerca de formes, imatges, logotips... que poden ser de font d'inspiració per a la creació del teu logotip i justifiquis el motiu. A continuació pots veure un exemple de la meva marca, on pots veure que m'he inspirat en la geometria dels pobles andins.
+
 ## Diari d'aprenentatge: Logotip: Pluja d'idees
-Afegeix una nova pàgina anomenada "Logotip: Pluja d'idees" on, a partir de les teves fonts d'inspiració, dibuixis diferents esbossos/idees de tipus Isologotip per a la teva marca. A continuació pots veure un exemple de la meva marca:
+Afegeix una nova pàgina anomenada **"Logotip: Pluja d'idees"** on, a partir de les teves fonts d'inspiració, dibuixis diferents esbossos/idees de tipus Isologotip per a la teva marca. A continuació pots veure un exemple de la meva marca:
+
 ## Diari d'aprenentatge: Logotip: Esbós Final
-Afegeix una nova pàgina anomenada "Logotip: Esbós Final" on, a partir de la teva pluja d'idees, seleccionis el teu logotip i realitzis un dibuix més afinat. A continuació pots veure un exemple del meu esbós final.
+Afegeix una nova pàgina anomenada **"Logotip: Esbós Final"** on, a partir de la teva pluja d'idees, seleccionis el teu logotip i realitzis un dibuix més afinat. A continuació pots veure un exemple del meu esbós final.

@@ -54,14 +54,16 @@ Ara pensa en la capsa tancada.
 > [!TIP] Recorda la coherència
 > El packaging ha de connectar amb el teu logo, la paleta de colors i l'estil visual de la marca.
 
+---
+
 ## Diari d'aprenentatge: Ideació del packaging
-Crea una nova pàgina al teu diari titulada "Ideació del Packaging".
+Crea una nova pàgina al teu diari titulada **"Ideació del Packaging"**.
 
 Què has de fer? Agafa un full en blanc i fes un ESBÓS A MÀ ALÇADA de la teva futura capsa. El dibuix ha d'incloure obligatòriament:
-- La Forma: Dibuixa com serà la capsa tancada (fes-ho en perspectiva 3D).
-- Les Mides: Escriu al costat del dibuix les mesures que tindrà (Llarg, Ample i Alt).
-- El Logo: Dibuixa el teu logotip a la cara de la capsa on vols que vagi.
-- El Model: Escriu el nom del model de TemplateMaker que has triat (ex: "Caja Cojín").
+- **La Forma:** Dibuixa com serà la capsa tancada (fes-ho en perspectiva 3D).
+- **Les Mides:** Escriu al costat del dibuix les mesures que tindrà (Llarg, Ample i Alt).
+- **El Logo:** Dibuixa el teu logotip a la cara de la capsa on vols que vagi.
+- **El Model:** Escriu el nom del model de TemplateMaker que has triat (ex: "Caja Cojín").
 
 Fes una foto al teu full i afegeix-la al Diari d'Aprenentatge, i respon a aquestes preguntes:
 - Per què has triat aquest model concret?
@@ -69,9 +71,8 @@ Fes una foto al teu full i afegeix-la al Diari d'Aprenentatge, i respon a aquest
 - Per què has decidit posar el logo en aquest lloc i amb aquesta mida?
 
 ## Templates i descàrrega
-1. Troba el teu model: Selecciona exactament el mateix tipus de capsa que vas dibuixar al teu esbós.
-2. Introdueix les dades: Copia les mesures del teu esbós (Llarg, Ample, Alt) a les caselles corresponents.
-3. Configuració del fitxer: selecciona **PDF**.
-4. Descarrega: baixa el fitxer al teu ordinador.
-5. Entrega: puja el PDF al Classroom quan s'obri la tasca corresponent.
-5. Entrega al Classroom: Busca la tasca anomenada "Entrega del packaging (PDF)" i puja el fitxer que acabes de descarregar.
+1. **Troba el teu model:** Selecciona exactament el mateix tipus de capsa que vas dibuixar al teu esbós.
+2. **Introdueix les dades:** Copia les mesures del teu esbós (Llarg, Ample, Alt) a les caselles corresponents.
+3. **Configuració del fitxer:** Selecciona **PDF**.
+4. **Descarrega:** Baixa el fitxer al teu ordinador.
+5. **Entrega al Classroom:** Busca la tasca anomenada "Entrega del packaging (PDF)" i puja el fitxer que acabes de descarregar.
