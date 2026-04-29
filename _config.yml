@@ -4,12 +4,20 @@ url: "https://www.tecnologicament.cat"
 
 baseurl: ""
 
-# Usa just-the-docs com a tema remot:
-remote_theme: just-the-docs/just-the-docs
+# Usa Feeling Responsive com a tema remot:
+remote_theme: Phlow/feeling-responsive
 
-# Configuració específica de just-the-docs (opcional)
-# Pots ajustar colors, ordre del menú, etc.
-color_scheme: light
+# Configuració específica de Feeling Responsive
+# Colores modernos i divertits
+colors:
+  primary: '#FF6B6B'        # Vermell vibrant
+  secondary: '#4ECDC4'      # Turquesa
+  accent: '#FFE66D'         # Groc lluminós
+  dark: '#2C3E50'           # Gris fosc
+  light: '#ECF0F1'          # Gris clar
+
+# Configuració general
+lang: ca
 
 # Permalinks bonitos para URLs con /
 permalink: pretty
