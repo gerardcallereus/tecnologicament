@@ -18,6 +18,9 @@ El Packaging (envàs) té tres funcions vitals que heu de complir:
 - **Protecció**: La joia ha d'arribar sana i estàlvia a casa del client.
 - **Informació**: Qui ets? Com es diu la marca?
 - **L'Experiència**: El so del cartó, l'olor, l'ajust perfecte... això és màrqueting.
+- 🛡️ **Protecció**: La joia ha d'arribar sana i estàlvia a casa del client.
+- 🏷️ **Informació**: Qui ets? Com es diu la marca?
+- ✨ **L'Experiència**: El so del cartó, l'olor, l'ajust perfecte... això és màrqueting visual i tàctil.
 
 > [!TIP] Pensa en l'obertura
 > El moment en què el client treu la joia de la capsa és una oportunitat per reforçar la marca.
